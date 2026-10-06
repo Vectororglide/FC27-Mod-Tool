@@ -1,5 +1,8 @@
 # ⚽️ FC27-Mod-Manager
 
+<img width="920" height="633" alt="image" src="https://github.com/user-attachments/assets/fad75611-eace-450b-9ff7-c6ca11a2297e" />
+
+
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="FC27 Mod Manager" width="140" height="140">
 </p>
