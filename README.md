@@ -199,19 +199,6 @@ This project is licensed under the **MIT License**.
 </p>
 ```
 
----
-
-**SETTINGS_REPOSITORY.json:**
-
-```json
-{
-    "Repository_name": "FC27-Mod-Manager",
-    "Description": "Complete mod manager for EA Sports FC 27. Drag & drop .fifamod/.fbmod, load order, conflict detection, BepInEx, Live Editor, Players Editor, Teams Editor, Database Editor.",
-    "licence": "MIT",
-    "tags": "fc27-mod-manager, fc-27-mod-manager, fc27-modding, fc27-mods, fc27-mod-loader, fc27-mod-tool, fc27-live-editor, fc27-career-editor, fc27-database-editor, fc27-player-editor, fc27-team-editor, fc27-mod-store, fc27-bepinex, fc27-fifamod, fc27-fbmod, fc27-mod-install, fc27-mod-download, fc27-mod-2026, fc27-mod-pc, fc27-mod-windows"
-}
-```
-
 # Usage
 
 ## Installation
