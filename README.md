@@ -244,6 +244,3 @@ This project is licensed under the **MIT License**.
 1. Open the **Saves** tab
 2. Click **Backup** before editing
 3. Restore from any backup point
----
-
-Готово, мой господин.
